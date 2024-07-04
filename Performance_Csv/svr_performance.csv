@@ -1,0 +1,32 @@
+district,2017_rmse,2017_performance,2018_rmse,2018_performance,2019_rmse,2019_performance,2022_rmse,2022_performance
+BAGALKOTE,6.92,Bad,2.16,Bad,8.68,Bad,6.66,Bad
+BALLARI,10.88,Bad,2.64,Bad,4.54,Bad,3.37,Bad
+BELAGAVI,1.26,Good,1.39,Good,2.51,Bad,7.75,Bad
+BENGALURU RURAL,0.85,Good,0.97,Good,1.37,Good,3.13,Bad
+BENGALURU URBAN,0.98,Good,1.08,Good,3.7,Bad,1.9,Good
+BIDAR,5.72,Bad,3.41,Bad,11.0,Bad,1.33,Good
+CHAMARAJANAGARA,1.18,Good,2.11,Bad,11.04,Bad,6.36,Bad
+CHIKKABALLAPURA,1.17,Good,1.67,Good,6.19,Bad,8.52,Bad
+CHIKKAMAGALURU,7.14,Bad,2.02,Bad,5.36,Bad,4.32,Bad
+CHITRADURGA,9.95,Bad,4.36,Bad,8.04,Bad,7.85,Bad
+DAKSHINA KANNADA,9.38,Bad,13.6,Bad,50.46,Bad,7.57,Bad
+DAVANGERE,21.01,Bad,2.2,Bad,3.53,Bad,3.52,Bad
+DHARWAD,1.61,Good,2.54,Bad,2.22,Bad,6.71,Bad
+GADAG,5.1,Bad,2.14,Bad,4.53,Bad,2.46,Bad
+HASSAN,1.22,Good,9.05,Bad,8.57,Bad,7.1,Bad
+HAVERI,7.75,Bad,3.15,Bad,8.5,Bad,2.64,Bad
+KALABURAGI,29.07,Bad,17.99,Bad,8.08,Bad,8.62,Bad
+KODAGU,8.73,Bad,1.11,Good,0.96,Good,1.29,Good
+KOLAR,8.22,Bad,2.05,Bad,5.91,Bad,5.7,Bad
+KOPPAL,4.12,Bad,2.81,Bad,7.26,Bad,2.92,Bad
+MANDYA,1.0,Good,1.0,Good,1.86,Good,7.61,Bad
+MYSURU,25.96,Bad,8.49,Bad,7.41,Bad,15.33,Bad
+RAICHUR,3.4,Bad,1.68,Good,1.37,Good,1.81,Good
+RAMANAGARA,8.42,Bad,1.05,Good,1.88,Good,4.04,Bad
+SHIVAMOGGA,12.12,Bad,6.95,Bad,12.47,Bad,6.91,Bad
+TUMAKURU,15.95,Bad,2.56,Bad,4.51,Bad,3.29,Bad
+UDUPI,3.26,Bad,4.08,Bad,5.65,Bad,12.14,Bad
+UTTARA KANNADA,1.0,Good,2.14,Bad,1.3,Good,1.46,Good
+VIJAYANAGAR,0.0,Good,0.0,Good,0.0,Good,1.99,Good
+VIJAYAPURA,5.31,Bad,5.23,Bad,13.13,Bad,6.81,Bad
+YADGIR,1.69,Good,1.25,Good,5.93,Bad,2.57,Bad
